@@ -230,6 +230,8 @@ Using Transport Client
 ```
 
 ## Help Pages
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fspring-data-elasticsearch.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fspring-data-elasticsearch?ref=badge_shield)
+
 
 * [Geo distance and location search](https://github.com/spring-projects/spring-data-elasticsearch/wiki/Geo-indexing-and-request)
 * [Custom object mapper](https://github.com/spring-projects/spring-data-elasticsearch/wiki/Custom-ObjectMapper)
@@ -249,3 +251,7 @@ Before we accept a non-trivial patch or pull request we will need you to [sign t
 Code formatting for [Eclipse and Intellij](https://github.com/spring-projects/spring-data-build/tree/master/etc/ide)
 
 [More information about contributing to Spring Data](https://github.com/spring-projects/spring-data-build/blob/master/CONTRIBUTING.adoc)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fspring-data-elasticsearch.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fspring-data-elasticsearch?ref=badge_large)
